@@ -210,7 +210,7 @@ Drive video URL:
 
 PDF File With ScreenShoots and explanation about project : https://drive.google.com/file/d/1JKuM4UP4UnmeVvCe8D5_bfDqf6ezmk8A/view?usp=sharing
 
-working project URL: 
+working project URL: https://leenakarande1229.github.io/Kindergarten-Website/
 
 Azure Account ID: leena190524@mccmulund.ac.in
 
