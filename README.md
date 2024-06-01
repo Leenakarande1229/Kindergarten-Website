@@ -18,6 +18,7 @@ Azure Core Services
 
 Azure Virtual Machines (VMs) are on-demand, scalable computing resources provided by Microsoft Azure. They enable you to run virtualized Windows or Linux servers in the cloud. Here are some key points about Azure Virtual Machines
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/d828ca0d-5cfb-4242-b0ae-4f18365d8a26)
 
 
 
@@ -25,12 +26,14 @@ Azure Virtual Machines (VMs) are on-demand, scalable computing resources provide
 
 Creating a CPU usage alert in Azure Monitor involves several steps. Azure Monitor allows you to set up alerts based on various metrics, including CPU usage. Below is a general guide on how to create a CPU usage alert using Azure Monitor
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/c0b280ae-7cd4-4683-b33e-d98d8b0fa344)
 
 
 
 3.Azure Network Security Group:
 Network Security Groups (NSGs) act as virtual firewalls in Azure, controlling inbound and outbound traffic to Azure resources. They allow or deny traffic based on rules defined by users, such as source and destination IP addresses, ports, and protocols. NSGs provide an additional layer of security by filtering traffic at the network level, helping to protect Azure resources from unauthorized access and malicious attacks.
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/037805ef-b436-4f0a-a64a-c8e7376d6a65)
 
 
 By configuring Network Security Groups to deny HTTP ports, we restrict inbound traffic on those ports, effectively preventing any HTTP traffic from reaching the designated Azure resources. This action enhances security by blocking potential threats and unauthorized access attempts targeting the HTTP protocol.
@@ -60,21 +63,25 @@ For input source i use a Editorial custom question and answer type.
 
 Output
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/ca88db1a-f963-4938-a6e9-898b98211de2)
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/e60d39bd-de7f-42b8-94b6-ce842f24c24b)
 
 
 Microsoft Azure Bot Framework Architecture(Resource visualizer)
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/0ba8ba76-1b10-44f0-ae2a-d5bb80a21017)
 
 
 Microsoft Azure QnA Maker Development Cycle
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/44528c72-9221-485b-8448-5f704cd62176)
 
 
 
 Life Cycle of a Conversational Bot
 
-
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/f9803acb-54a9-41e0-93cd-571146a90257)
 
 
 How to build a bot
@@ -89,6 +96,7 @@ Build
 
 Your bot is a web service that implements a conversational interface and communicates with the Bot Framework Service to send and receive messages and events. Bot Framework Service is one of the components of the Azure Bot Service and Bot Framework. You can create bots in any number of environments and languages.
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/b15a9f20-e12c-4a79-8960-33117fae337d)
 
 
 
@@ -120,6 +128,7 @@ If you would like to design the application which needs to extract the informati
 
 Process
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/8532903d-0cd5-4bb9-b396-7428442053ea)
 
 
 
@@ -127,6 +136,7 @@ Task 1
 
 Create a Resource Group on Azure
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/0997d431-304d-4c4e-9475-933a1501fab9)
 
 
 
@@ -134,6 +144,7 @@ Task2
 
 Create a Language Service on Azure
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/06374c78-f253-4736-8c20-562788bfa3db)
 
 
 
@@ -141,12 +152,14 @@ Task3
 
 Create a Knowledge Base on Azure
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/08a4ae4b-c874-462e-ba50-3f27952fc475)
 
 
 Task4
 
 Create an App Service on Azure
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/14bd1a4f-9434-4ec6-bf5f-b263ba6b9acd)
 
 
 
@@ -154,12 +167,15 @@ Task5
 
 Create a Web App Bot on Azure
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/568f413d-e131-499f-812c-53f94383617d)
 
 
 Task6
 
 Testing my Bot on Azure
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/d2dab22b-413b-4814-a57c-cd9b526c114c)
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/9d690a60-899d-45bd-9637-b441f3461473)
 
 
 
@@ -173,6 +189,7 @@ Description:
 
 Here i am attaching the final working website's screenshot for the reference.
 
+![image](https://github.com/Leenakarande1229/Kindergarten-Website/assets/158479285/41f31f23-6f9a-419f-b4f5-baea453ef3c2)
 
 
 
@@ -191,7 +208,7 @@ Technologies / Tools Used
 URLs
 Drive video URL: 
 
-PDF File With ScreenShoots and explanation about project : 
+PDF File With ScreenShoots and explanation about project : https://drive.google.com/file/d/1JKuM4UP4UnmeVvCe8D5_bfDqf6ezmk8A/view?usp=sharing
 
 working project URL: 
 
